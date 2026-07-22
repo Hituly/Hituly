@@ -21,8 +21,9 @@ Curieux et touche-à-tout, j'aime comprendre ce qui se cache sous le capot. Qu'i
 
 ### 📊 Mes Statistiques GitHub
 
-[![Stats Armand](https://github-readme-stats.vercel.app/api?username=Hituly&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Hituly)
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Hituly&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Hituly)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hituly&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
 
 ---
 
