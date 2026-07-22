@@ -46,8 +46,8 @@ Quand je ne suis pas en train de débugger un programme, je passe souvent du tem
 
 ### 📫 Me contacter
 
-- 💼 [LinkedIn](lien-vers-ton-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/armand-bassin/)
 - 🌐 [Mon Portfolio](https://armand-bassin.fr/)
-- ✉️ armand.bassin@email.com <!-- Remplace par ton email pro si tu le souhaites -->
+- ✉️ bassin.armand@gmail.com
 
 ⭐️ *N'hésitez pas à jeter un œil à mes dépôts ci-dessous !*
