@@ -22,8 +22,8 @@ Curieux et touche-à-tout, j'aime comprendre ce qui se cache sous le capot. Qu'i
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hytuli&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats Armand" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hytuli&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hituly&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats Armand" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hituly&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Langages les plus utilisés" />
 </div>
 
 ---
@@ -40,17 +40,17 @@ Curieux et touche-à-tout, j'aime comprendre ce qui se cache sous le capot. Qu'i
 ### 🚀 Mes Projets Récents
 
 #### 💻 Programmation C & Algorithmique
-* **[Projet Cat](https://github.com/hytuli/projet-cat) :** ![Build](https://img.shields.io/badge/build-passing-brightgreen) Recréation de la commande `cat` avec gestion des entrées standards, fichiers mixtes et gestionnaire d'erreurs système.
-* **[Projet Tr](https://github.com/hytuli/projet-tr) :** ![Memory](https://img.shields.io/badge/valgrind-0_leaks-success) Développement des fonctionnalités de remplacement et suppression (`-d`, `-cd`). Optimisation de la mémoire (0 fuite sous Valgrind). 
-* **[Projet Maze](https://github.com/hytuli/projet-maze) :** Résolution de labyrinthes via l'algorithme de parcours en profondeur (DFS) et implémentation récursive.
+* **[Projet Cat](https://github.com/Hituly/projet-cat) :** ![Build](https://img.shields.io/badge/build-passing-brightgreen) Recréation de la commande `cat` avec gestion des entrées standards, fichiers mixtes et gestionnaire d'erreurs système.
+* **[Projet Tr](https://github.com/Hituly/projet-tr) :** ![Memory](https://img.shields.io/badge/valgrind-0_leaks-success) Développement des fonctionnalités de remplacement et suppression (`-d`, `-cd`). Optimisation de la mémoire (0 fuite sous Valgrind). 
+* **[Projet Maze](https://github.com/Hituly/projet-maze) :** Résolution de labyrinthes via l'algorithme de parcours en profondeur (DFS) et implémentation récursive.
 
 #### 🌐 Web & API
-* **[Pokédex Dynamic](https://github.com/hytuli/pokedex-dynamic) :** Application JavaScript utilisant l'API PokéAPI pour récupérer et afficher les statistiques en temps réel.
-* **[Blog Aviation](https://github.com/hytuli/blog-aviation) :** Interface responsive en HTML/CSS et Bootstrap autour de l'aéronautique.
+* **[Pokédex Dynamic](https://github.com/Hituly/pokedex-dynamic) :** Application JavaScript utilisant l'API PokéAPI pour récupérer et afficher les statistiques en temps réel.
+* **[Blog Aviation](https://github.com/Hituly/blog-aviation) :** Interface responsive en HTML/CSS et Bootstrap autour de l'aéronautique.
 
 #### 🗄️ Infrastructure & Data
-* **[Mini-Pronote SQL](https://github.com/hytuli/mini-pronote-sql) :** Architecture de base de données complexe (clés étrangères, tables pivots) déployée sous Docker.
-* **[Mini-Réseau Local](https://github.com/hytuli/cisco-packet-tracer-network) :** Simulation sous Cisco Packet Tracer (adressage IPv4, sous-réseaux, tables de routage).
+* **[Mini-Pronote SQL](https://github.com/Hituly/mini-pronote-sql) :** Architecture de base de données complexe (clés étrangères, tables pivots) déployée sous Docker.
+* **[Mini-Réseau Local](https://github.com/Hituly/cisco-packet-tracer-network) :** Simulation sous Cisco Packet Tracer (adressage IPv4, sous-réseaux, tables de routage).
 
 ---
 
@@ -62,9 +62,9 @@ Quand je ne suis pas en train de débugger un programme, je passe souvent du tem
 ### 🐍 Mon activité
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hytuli/hytuli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hytuli/hytuli/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/hytuli/hytuli/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hituly/Hituly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hituly/Hituly/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Hituly/Hituly/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
