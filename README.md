@@ -22,7 +22,7 @@ Curieux et touche-à-tout, j'aime comprendre ce qui se cache sous le capot. Qu'i
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hituly&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hituly&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 </div>
 
 ---
