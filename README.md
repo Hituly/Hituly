@@ -3,7 +3,6 @@
 <!-- Badges Shields.io pour un look pro immédiat -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Étudiant de 19 ans en programmation et architecture logicielle à **l'École 89**. Je suis actuellement à la recherche d'une **alternance (Programmer Assistant / Développeur)** pour poursuivre ma formation en alliant théorie et projets concrets en entreprise.
